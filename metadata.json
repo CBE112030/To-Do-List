@@ -1,0 +1,6 @@
+{
+  "name": "待辦事項清單",
+  "description": "簡潔清爽的繁體中文待辦事項管理 Web App，支援新增、勾選完成、刪除、統計數量與瀏覽器本地儲存。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
